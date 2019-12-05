@@ -38,3 +38,7 @@ end
 def find_a(first)
   first.select { |word| word.start_with?("a") }
 end
+
+def sum_array(num)
+  
+end
