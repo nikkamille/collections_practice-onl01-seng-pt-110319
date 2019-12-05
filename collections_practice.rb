@@ -31,6 +31,6 @@ end
 
 def kesha_maker(name)
   name.each do |s|
-    s[2].gsub "$"
+    s[2] = "$"
   end
 end
