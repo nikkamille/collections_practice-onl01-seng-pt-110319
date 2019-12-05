@@ -10,3 +10,5 @@ def sort_array_desc(num)
       -1
     else a < b 
       1 
+  end
+end
