@@ -35,6 +35,6 @@ def kesha_maker(name)
   end
 end
 
-def find_a(1st)
-  1st.select { |word| word.start_with?("a") }
+def find_a(first)
+  first.select { |word| word.start_with?("a") }
 end
