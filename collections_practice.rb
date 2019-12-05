@@ -6,6 +6,7 @@ def sort_array_desc(num)
   num.sort do |a, b|
     if a == b
       0 
-    elsif a > 1 
+    elsif a > b  
       -1
-    else a 
+    else a < b 
+      1 
