@@ -20,3 +20,7 @@ def sort_array_char_count(animals) # ["dogs", "cat", "Horses"]
   end
 end
   
+def swap_elements(name)
+  
+end
+  
