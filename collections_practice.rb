@@ -1,3 +1,4 @@
 def sort_array_asc(num)
-  array.sort 
+  num = [25, 7, 1]
+  
 end
