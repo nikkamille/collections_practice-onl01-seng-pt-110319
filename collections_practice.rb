@@ -34,3 +34,7 @@ def kesha_maker(name)
     s[2] = "$"
   end
 end
+
+def find_a(1st)
+  1st.collect 
+end
