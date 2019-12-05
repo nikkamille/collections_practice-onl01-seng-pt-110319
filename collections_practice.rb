@@ -31,6 +31,6 @@ end
 
 def kesha_maker(name)
   name.gsub do |s|
-    name.length
+    name.length 
   
 end
