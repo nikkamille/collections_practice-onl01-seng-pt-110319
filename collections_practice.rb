@@ -43,7 +43,7 @@ def sum_array(num)
   num.inject { |a, b| a + b }
 end
 
-def add_s(words)
+def add_s(word)
   word.collect do |a|
     if word[1] == a 
       a
