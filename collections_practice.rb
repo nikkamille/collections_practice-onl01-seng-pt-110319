@@ -42,3 +42,7 @@ end
 def sum_array(num)
   num.inject { |a, b| a + b }
 end
+
+def add_s(word)
+  
+end
