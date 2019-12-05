@@ -15,6 +15,6 @@ def sort_array_desc(num)
 end
 
 def sort_array_char_count(animals) # ["dogs", "cat", "Horses"]
-  animals.sort do 
+  animals.sort do |
 end
   
