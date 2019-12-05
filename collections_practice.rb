@@ -36,5 +36,5 @@ def kesha_maker(name)
 end
 
 def find_a(1st)
-  1st.find 
+  1st.
 end
