@@ -30,7 +30,7 @@ def reverse_array(num)
 end
 
 def kesha_maker(name)
-  name.gsub do |s|
-    s[2].gsub  
-  
+  name.collect do |s|
+    s[2].gsub "$"
+  end
 end
