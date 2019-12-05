@@ -44,5 +44,6 @@ def sum_array(num)
 end
 
 def add_s(word)
-  word.collect 
+  word.collect do |a|
+    
 end
