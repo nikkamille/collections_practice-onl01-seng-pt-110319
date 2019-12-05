@@ -15,7 +15,11 @@ def sort_array_desc(num)
 end
 
 def sort_array_char_count(animals) # ["dogs", "cat", "Horses"]
-  animals.length do |a, b|
+  animals.each do |a|
+    a.length 
+  end
+    a.
+    
   end
 end
   
